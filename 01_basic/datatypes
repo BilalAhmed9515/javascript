@@ -1,0 +1,12 @@
+let name = "Bilal ahmed"        // String
+let Age = 25                    //Integer
+let Login = true                //bolean
+let city = null                 //object
+let car = [name = 'carolla', model = '2017']            //object
+let friend                                              //undefined
+let array = [1,2,3,4,5]                                 //Array
+
+
+console.log(typeof name, typeof Age, typeof Login, typeof city, typeof car, typeof friend, typeof Array)
+
+console.table ([typeof name, typeof Age, typeof Login, typeof city, typeof car, typeof friend, typeof Array])
