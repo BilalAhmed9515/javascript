@@ -23,13 +23,6 @@ let codeuser = {
 
     console.log(codeuser.array);
     
-    
-
-
-
-
-
-
 
 let symb = Symbol("khan"); //symbol is a primitive data type in JavaScript that is used to create unique identifiers for object properties.
 
